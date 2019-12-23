@@ -1,0 +1,4 @@
+1	Name 1	Producer 1	genre	10	20.5
+2	Name 2	Producer 2	genre	15	20.5
+3	Name 3	Producer 3	genre	15	34
+4	Name 4	Producer 1	genre 1	18	35
